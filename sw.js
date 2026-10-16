@@ -1,8 +1,8 @@
-/* TCG Collection Note v216 service worker.
+/* TCG Collection Note v217 service worker.
  * Cache only the app shell; API requests and external price data remain network-only.
  */
 'use strict';
-const CACHE_NAME = 'tcg-collection-note-v216-shell';
+const CACHE_NAME = 'tcg-collection-note-v217-shell';
 const APP_SHELL = [
   './',
   './index.html',
